@@ -1,0 +1,136 @@
+Added Component: Designator=C1(Cap 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.01u"; VariantName = "[No Variations]"
+Added Component: Designator=C2(Cap 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.01u"; VariantName = "[No Variations]"
+Added Component: Designator=Encoder1(PEC11R-4115K-N0018)
+Add component. Clean all parameters for all variants
+Added Component: Designator=KP1(KP LD RED)
+Add component. Clean all parameters for all variants
+Added Component: Designator=KP2(KP LD RED)
+Add component. Clean all parameters for all variants
+Added Component: Designator=KP3(L-813SRC-B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(Res 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Res 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Res 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Res 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Res 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Res 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Res 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(Res 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R9(Res 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(SOT-23)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VT2(SOT-23)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VT3(SOT-23)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XP1(PBD-12)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Pin=R3-1
+Added Pin To Net: NetName=5V Pin=VT1-2
+Added Pin To Net: NetName=5V Pin=VT2-2
+Added Pin To Net: NetName=5V Pin=VT3-2
+Added Pin To Net: NetName=5V Pin=XP1-3
+Added Net: Name=5V
+Added Pin To Net: NetName=A Pin=Encoder1-1
+Added Pin To Net: NetName=A Pin=R1-2
+Added Net: Name=A
+Added Pin To Net: NetName=B Pin=Encoder1-3
+Added Pin To Net: NetName=B Pin=R2-2
+Added Net: Name=B
+Added Pin To Net: NetName=C Pin=C1-2
+Added Pin To Net: NetName=C Pin=C2-2
+Added Pin To Net: NetName=C Pin=Encoder1-2
+Added Pin To Net: NetName=C Pin=Encoder1-5
+Added Pin To Net: NetName=C Pin=KP1-2
+Added Pin To Net: NetName=C Pin=KP2-2
+Added Pin To Net: NetName=C Pin=KP3-2
+Added Pin To Net: NetName=C Pin=XP1-1
+Added Net: Name=C
+Added Pin To Net: NetName=L1 Pin=R5-1
+Added Pin To Net: NetName=L1 Pin=XP1-8
+Added Net: Name=L1
+Added Pin To Net: NetName=L2 Pin=R7-1
+Added Pin To Net: NetName=L2 Pin=XP1-10
+Added Net: Name=L2
+Added Pin To Net: NetName=L3 Pin=R9-1
+Added Pin To Net: NetName=L3 Pin=XP1-12
+Added Net: Name=L3
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC1_1 Pin=XP1-7
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R2-1
+Added Pin To Net: NetName=NetC2_1 Pin=XP1-9
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetEncoder1_4 Pin=Encoder1-4
+Added Pin To Net: NetName=NetEncoder1_4 Pin=R3-2
+Added Net: Name=NetEncoder1_4
+Added Pin To Net: NetName=NetKP1_1 Pin=KP1-1
+Added Pin To Net: NetName=NetKP1_1 Pin=R4-2
+Added Net: Name=NetKP1_1
+Added Pin To Net: NetName=NetKP2_1 Pin=KP2-1
+Added Pin To Net: NetName=NetKP2_1 Pin=R6-2
+Added Net: Name=NetKP2_1
+Added Pin To Net: NetName=NetKP3_1 Pin=KP3-1
+Added Pin To Net: NetName=NetKP3_1 Pin=R8-2
+Added Net: Name=NetKP3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=VT1-3
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=VT1-1
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=VT2-3
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=VT2-1
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=VT3-3
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=VT3-1
+Added Net: Name=NetR9_2
+Added Class: Name=Sheet1
